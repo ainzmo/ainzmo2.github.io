@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ainzmo2.GitHub.io/sitemap.xml
+Sitemap: https://ainzmo.github.io/sitemap.xml
